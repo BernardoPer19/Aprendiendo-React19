@@ -29,6 +29,24 @@
       "name": "Júpiter",
       "type": "Planeta",
       "distanceFromSun": "778.5 millones de km"
+    },
+    {
+      "id": "1d42",
+      "name": "vacaSaturnita",
+      "type": "algo",
+      "distanceFromSun": "123"
+    },
+    {
+      "id": "306b",
+      "name": "a",
+      "type": "b",
+      "distanceFromSun": "c"
+    },
+    {
+      "id": "fc4c",
+      "name": "Urano",
+      "type": "PLaneta",
+      "distanceFromSun": "800; km"
     }
   ]
 }
